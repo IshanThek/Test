@@ -1,0 +1,42 @@
+body{
+    text-align:center;
+}
+#Welcome{ 
+    height: 100%;
+    color:white;
+    bottom:0;
+    background: linear-gradient(#32a8a2 0%,#b33e3e 100%);
+    display: table;
+    width:100%;
+    z-index: 9;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace;
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+#Videos iframe{
+    width:80%;
+}
+input{
+    background: grey;
+    
+}
